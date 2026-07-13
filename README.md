@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis Centrum Architectuur | Robert Melskens |
+| Fysieke leefomgeving | Jeroen de Ruig |
 <hr/>
 
 ## ReSpec template instructies
